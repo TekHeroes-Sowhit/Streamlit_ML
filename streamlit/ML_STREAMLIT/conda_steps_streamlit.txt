@@ -1,0 +1,19 @@
+conda create -n ml python==3.9
+
+conda activate ml
+
+## Install packages
+
+## pip install -r requirements.txt
+
+
+conda install streamlit (It will install numpy and pandas)
+
+conda install matplotlib scikit-learn
+
+## To install a kernel
+
+ipython kernel install--user --name=ml
+
+jupyter notebook
+
